@@ -5,6 +5,9 @@ Works with `iOS` and `Android`.
 
 Use this until Cordova resolves their [issue with MediaFile.getFormatData()](https://issues.apache.org/jira/browse/CB-7117).
 
+## Installation
+`cordova plugin add plugin add https://github.com/shahin8r/cordova-plugin-videometadata.git`
+
 ## Usage
 
 ```
